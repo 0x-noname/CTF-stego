@@ -1,0 +1,9 @@
+Reto Stego - Nivel Fácil
+-------------------------
+Encuentra la flag
+Formato de la flag: flag{base_de_una_flag}
+25/06/2021
+
+WriteUP
+-------
+https://0x-noname.medium.com/reto-1-stego-2a59c1226255

@@ -1,0 +1,9 @@
+Reto_4 Stego - Nivel Fácil 👶  
+--------------------------
+Encuentra la flag si puedes 😎  
+Formato de la flag: flag{Ejemplo_de_una_flag}
+16/07/2021
+
+WriteUP
+-------
+https://0x-noname.medium.com/reto-4-stego-2c6086da3b2b
