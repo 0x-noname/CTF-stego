@@ -7,4 +7,4 @@ Formato: flag{El_poder_de_exiftool}
 
 WriteUP
 -------
-En construcción
+https://0x-noname.medium.com/reto-7-stego-4fabb55757e0
