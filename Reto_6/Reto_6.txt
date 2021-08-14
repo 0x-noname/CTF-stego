@@ -2,7 +2,7 @@ Reto_6 Stego
 Nivel Fácil  
 ------------
 Encuentra la flag      
-Formato de la flag: flag{Odio_los_mosquitos}
+Formato: flag{Odio_los_mosquitos}
 30/07/2021
 
 WriteUP

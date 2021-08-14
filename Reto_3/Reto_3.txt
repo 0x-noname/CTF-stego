@@ -1,5 +1,5 @@
 Reto_3 Stego - Nivel Fácil
 --------------------------
 Encuentra la flag
-Formato de la flag: flag{Audacity_es_tu_amigo}
+Formato: flag{Audacity_es_tu_amigo}
 09/07/2021

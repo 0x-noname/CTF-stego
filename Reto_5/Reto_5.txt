@@ -1,7 +1,7 @@
 Reto_5 Stego - Nivel Fácil 
 --------------------------
 Encuentra la flag  👀    
-Formato de la flag: flag{Gnu_Linux_debian}
+Formato: flag{Gnu_Linux_debian}
 23/07/2021
 
 WriteUP

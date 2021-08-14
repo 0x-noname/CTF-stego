@@ -1,7 +1,7 @@
 Reto_2 Stego - Nivel Fácil
 --------------------------
 Encuentra la flag
-Formato de la flag: flag{strings_de_una_flag}
+Formato: flag{strings_de_una_flag}
 02/07/2021
 
 WriteUP
