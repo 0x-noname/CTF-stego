@@ -6,5 +6,5 @@ Formato: flag{El_poder_de_exiftool}
 06/08/2021
 
 WriteUP
--------
+--------
 https://0x-noname.medium.com/reto-7-stego-4fabb55757e0
