@@ -1,0 +1,10 @@
+Reto_8 Stego 
+Nivel Muy Fácil
+---------------
+Último reto de stego
+Formato de la flag: flag{XXXX-XXXX}
+13/08/2021
+
+WriteUP
+-------
+En construcción

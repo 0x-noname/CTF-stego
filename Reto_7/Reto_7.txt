@@ -1,0 +1,10 @@
+Reto_7 Stego 
+Nivel Fácil  
+------------
+Encuentra la flag     
+Formato: flag{El_poder_de_exiftool}
+06/08/2021
+
+WriteUP
+-------
+En construcción
