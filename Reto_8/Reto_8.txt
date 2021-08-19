@@ -7,4 +7,4 @@ Formato de la flag: flag{XXXX-XXXX}
 
 WriteUP
 -------
-En construcción
+https://0x-noname.medium.com/reto-8-stego-d503b5c47333
